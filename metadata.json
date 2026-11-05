@@ -1,0 +1,6 @@
+{
+  "name": "BAZNAS Kabupaten Purwakarta - Portal Zakat, Infak & Sedekah Daring",
+  "description": "Portal resmi penyaluran Zakat, Infak, dan Sedekah BAZNAS Kabupaten Purwakarta dengan kalkulator zakat akurat, notifikasi WhatsApp otomatis, verifikasi KTP, dan transparansi penyaluran dana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
